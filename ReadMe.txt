@@ -1,0 +1,7 @@
+Project Name:Sentiment Analysis on Product based reviews
+
+Sentiment analysis is used to summarize these reviews. It is a technique for identifying ambiguity in language, opinions, etc. It is a procedure that can be incredibly useful in polarity detection. Here, these will be examined and investigated the effect of various pre-processing tasks such as data cleaning, normalizing, removal of hashtags, punctuation removal, converting the text to lowercase, and tokenization on consumer reviews. 
+
+Machine learning tools are trained to learn the difference between context and misapplied words. Several techniques and complex algorithms such as Logistic Regression, Naive Bayes, and Support Vector Machines (SVM) are used to detect user sentiments. Using these techniques, the tools can separate the reviews into tags – positive, negative, or neutral.
+
+Dataset:The dataset consists of around 23000 rows and 10 columns. The data set is divided into two parts, which is the training data set and the test data set. The training portion consists of 80 percent of the actual dataset. The training dataset is used to train our model to predict accurate values for the test data set. For example, the training portion consists of customer reviews on products. These sub-sections consists of three types of labels, which are positive, negative and neutral. Then this data is used to train our model so as to predict testing portion with high accuracy.
